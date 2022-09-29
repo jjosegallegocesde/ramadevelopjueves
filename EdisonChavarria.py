@@ -9,3 +9,6 @@ print(saludar("juan"))
 
 saludar2=lambda nombre:nombre
 print(saludar("juan")) 
+
+clasificarLambda=lambda numero:numero
+
