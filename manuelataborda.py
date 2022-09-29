@@ -25,3 +25,5 @@ def nmeropar(numero):
     npar=nmeropar(8)
     print('el numero par es: ',npar)
 
+
+
