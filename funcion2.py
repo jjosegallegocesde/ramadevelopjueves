@@ -1,3 +1,13 @@
+
+
+multiplicarLambda=lambda numero:numero
+multiplicacion=multiplicarLambda(5*)    
+print('la suma es: ',suma)
+
+print("holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
+print("ganaron el parciaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal")
+
+
 #Funcion lambda que mulriplique un numero por 100
 
 def multiplicarCien(numero):
@@ -17,3 +27,4 @@ resultado = multiplicar(n)
 print(f'La multiplicación de los números es {resultado}')
 print("holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
 print("ganaron el parciaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal")
+
