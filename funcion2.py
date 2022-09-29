@@ -12,3 +12,5 @@ numero=int(input("Numero:"))
 multiplicar2=lambda numero:numero*100
 multiplica=multiplicar2(5)
 print(multiplica)
+print("holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
+print("ganaron el parciaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal")
