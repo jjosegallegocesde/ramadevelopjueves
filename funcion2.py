@@ -2,3 +2,5 @@
 
 multiplicar = lambda numero: numero* 100
 print(multiplicar(2))
+print("holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
+print("ganaron el parciaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal")
