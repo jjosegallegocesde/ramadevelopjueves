@@ -10,3 +10,12 @@ print('la suma es: ', suma)
 sumarLambda = lambda numero1,numero2 :numero1+numero2
 suma = sumarLambda(5,10)
 print('la suma es: ', suma)
+
+def clasificar(numero):
+ un numero par")
+clasificar(12)    if numero  % 2 == 0:
+        print("es un numero par")
+    else:
+        print("no es
+
+clasificarSuma = lambda numero: numero % 2 ==0 
