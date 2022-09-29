@@ -1,13 +1,19 @@
-def multiplicar(numero1):
+#Funcion lambda que mulriplique un numero por 100
 
-    return numero1 * 100
+def multiplicarCien(numero):
+    numero * 100
 
+resultado = multiplicarCien(5)
 
-print(f'El resultado es {multiplicar(3)}')    
+print(f'El resultado es: {resultado}')
 
+#Funcion Lambda
+n= int(input("Digite un número: "))
 
-multiplicarlambda = lambda numero1: numero1*100
+multiplicar = lambda x: x * 100
 
-print(f'El resultado es {multiplicarlambda(3)}')
+resultado = multiplicar(n)
+
+print(f'La multiplicación de los números es {resultado}')
 print("holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
 print("ganaron el parciaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal")
