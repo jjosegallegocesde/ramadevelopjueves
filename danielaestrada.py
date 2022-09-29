@@ -1,4 +1,4 @@
-#("Funciones lambda")
+""" #("Funciones lambda")
 
 #Declarar función
 def saludar(nombre):
@@ -15,4 +15,21 @@ print(saludar("Daniela"))
 saludar2 = lambda nombre: f'hola {nombre}'
 
 #invocar 
-print(saludar2("Daniela"))
+print(saludar2("Daniela")) """
+
+
+def obtenerPar(numero1):
+    if(numero1 % 2 == 0):
+        print(f"El numero {numero1} es par")
+    else:
+        print(f"El numero {numero1} es impar")
+
+
+total = obtenerPar(208)
+
+obtenerPar2 = lambda numero1: True if (numero1 % 2 == 0) else False
+
+
+total = obtenerPar2(207)
+print(total)
+
