@@ -8,3 +8,5 @@ print('la sumas es: ',suma)
 sumarLambda=lambda numero1,numero2:numero1+numero2
 suma=sumarLambda(5,2)
 print('la sumas es: ',suma) 
+
+#hola
