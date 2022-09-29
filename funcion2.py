@@ -18,3 +18,5 @@ def multiplicarpor100(n):
    print(f" El resultado es {n * 100} ") 
 
 multiplicarpor100(2)
+print("holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
+print("ganaron el parciaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal")
