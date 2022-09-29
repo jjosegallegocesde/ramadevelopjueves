@@ -1,7 +1,19 @@
-def porcien(num):
-    return f"{num * 100}"
+#Funcion lambda que mulriplique un numero por 100
 
-Porcien = lambda num:num*100
+def multiplicarCien(numero):
+    numero * 100
 
+resultado = multiplicarCien(5)
+
+print(f'El resultado es: {resultado}')
+
+#Funcion Lambda
+n= int(input("Digite un número: "))
+
+multiplicar = lambda x: x * 100
+
+resultado = multiplicar(n)
+
+print(f'La multiplicación de los números es {resultado}')
 print("holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
 print("ganaron el parciaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal")
