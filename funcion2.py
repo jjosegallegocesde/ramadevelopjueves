@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-multipliquelambda=lambda numero: numero *100
-multiplicar=multipliquelambda(6)
-print(multiplicar)
-=======
 #Funcion lambda que mulriplique un numero por 100
 
 def multiplicarCien(numero):
@@ -22,4 +17,3 @@ resultado = multiplicar(n)
 print(f'La multiplicación de los números es {resultado}')
 print("holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
 print("ganaron el parciaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal")
->>>>>>> d90f423c60179c8e6a8c17e1de4fc1e03594f206
