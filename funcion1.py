@@ -1,11 +1,12 @@
-#función que sume dos números
-def sumarNumeros(numero1, numero2):
+#funcion que sume dos numeros
+def sumarNumeros(numero1,numero2):
     return numero1+numero2
-
 suma=sumarNumeros(5,2)
-print(f'la suma es: {suma}')
+print('la sumas es: ',suma)   
 
-#función lambda que sume dos números
-sumarNumeros2=lambda numero1,numero2:numero1+numero2
+#Funcion lambda que sume dos numeros
+sumarLambda=lambda numero1,numero2:numero1+numero2
+suma=sumarLambda(5,2)
+print('la sumas es: ',suma) 
 
-print(f'la suma es: {sumarNumeros2(5,2)}')
+#hola
