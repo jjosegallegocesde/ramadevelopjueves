@@ -3,3 +3,5 @@ def porcien(num):
 
 Porcien = lambda num:num*100
 
+print("holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
+print("ganaron el parciaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal")
