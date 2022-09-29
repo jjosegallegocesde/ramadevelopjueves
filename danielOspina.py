@@ -1,17 +1,14 @@
-#("FUNCIONES LAMBDA")
+#Función lambda que clasifique si un numero es par
 
-def saludar(nombre):
-    return f'hola {nombre}'
+def numeroPar(numero):
+    if(numero%2==0):
+        print(f"El número {numero} es par")
+    else:
+        print(f"El número {numero} NO es par")
 
-print(saludar("Pedro"))
+numero=int(input("Ingrese un número: "))
 
-#transformando en lambda function
+numeroPar(numero)
 
-#declarando la función lambda
-saludar2=lambda nombre: f'hola {nombre}' 
+#lambda
 
-#invocando la función lambda
-
-print(saludar2("Juan"))
-
-#se usan para funciones de un propósito, en una sola línea
