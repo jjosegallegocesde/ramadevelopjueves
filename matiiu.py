@@ -21,7 +21,7 @@ def numeroPar(n):
     else:
         print('El número no es par')    
 
-numeroPar()
+numeroPar(2)
 
 
    
