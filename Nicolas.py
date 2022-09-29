@@ -1,13 +1,3 @@
 #print("funciones lambda")
-
-
-def saludar(nombre):
-    return f"hola {nombre}"
-
-print(saludar("Nicolas"))
-
-#transformado en lamda
-
-areaT = lambda nom: nom
-
-print(areaT("Nicolas"))
+esPar = lambda numero: numero % 2 == 0
+print(esPar(5))
