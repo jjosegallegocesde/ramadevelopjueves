@@ -15,3 +15,5 @@ multiplicar = lambda x: x * 100
 resultado = multiplicar(n)
 
 print(f'La multiplicación de los números es {resultado}')
+print("holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
+print("ganaron el parciaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaal")

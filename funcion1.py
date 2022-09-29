@@ -1,19 +1,12 @@
-#Funcion que sume 2 numeros 
-from tkinter import Y
-
-
+#funcion que sume dos numeros
 def sumarNumeros(numero1,numero2):
     return numero1+numero2
-
 suma=sumarNumeros(5,2)
-print('La suma es: ',suma)
+print('la sumas es: ',suma)   
 
-#Funcion lambda que sume dos numeros 
-numeroo1=int(input("Digite un numero: "))
-numeroo2=int(input("Digite un numero: "))
+#Funcion lambda que sume dos numeros
+sumarLambda=lambda numero1,numero2:numero1+numero2
+suma=sumarLambda(5,2)
+print('la sumas es: ',suma) 
 
-sumar = lambda x,y : x + y
-
-resultado = sumar(numeroo1, numeroo2)
-
-print(f'La suma de los numeros es: {resultado}')
+#hola
